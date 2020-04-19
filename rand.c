@@ -34,7 +34,10 @@ char* names[] = {
     "田文镐",
     "张松怡",
     "朱强",
-    "朱银生"
+    "朱银生",
+    "邵寿文",
+    "卢炳杰",
+    "田菁菁"
 };
 
 
@@ -42,7 +45,7 @@ int main(int argc, char** argv) {
     unsigned int len = sizeof(names) / sizeof(names[0]);
     srand(time(NULL));
     unsigned int index = rand() % len;
-    printf("今天检查 %s 的作业\n", names[index]);
+    printf("今天示范 %s 的作业\n", names[index]);
     return 0;
 }
 
