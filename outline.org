@@ -71,6 +71,6 @@
   #+RESULTS:
   [[file:./img/overview.svg]]
   
-[[file:./img/overview.svg]]
+
 
 
