@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [计算机科学导论](#orgb89b9c0)
-2.  [课程安排](#org4b636a7)
-3.  [学习路线](#orga72e29e)
+1.  [计算机科学导论](#orgf5c42e8)
+    1.  [课程安排](#orgc5d9025)
+    2.  [学习路线](#org26fcf89)
 
 
-<a id="orgb89b9c0"></a>
+<a id="orgf5c42e8"></a>
 
 # 计算机科学导论
 
 
-<a id="org4b636a7"></a>
+<a id="orgc5d9025"></a>
 
-# 课程安排
+## 课程安排
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -75,9 +75,9 @@
 </table>
 
 
-<a id="orga72e29e"></a>
+<a id="org26fcf89"></a>
 
-# 学习路线
+## 学习路线
 
 ![img](./img/overview.svg)
 
